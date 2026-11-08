@@ -1,1 +1,1 @@
-# Scholarship-Advisory---Rule-Based-System
+# Scholarship-Advisory Rule-Based-System
